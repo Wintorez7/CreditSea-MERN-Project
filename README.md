@@ -1,5 +1,7 @@
 🏦 CreditSea Assignment – Full Stack XML Credit Report Processor
 
+Project Live Link -> https://sweet-daifuku-d35069.netlify.app/report/68eff92c170fa423c38a4163
+
 🏦 CreditSea Assignment – Full Stack XML Credit Report Processor
 🚀 A MERN stack application that processes Experian XML soft credit pull data and generates a structured, interactive credit report dashboard.
 📋 Overview
