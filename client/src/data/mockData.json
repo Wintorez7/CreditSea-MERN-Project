@@ -1,0 +1,59 @@
+{
+  "basicDetails": {
+    "name": "Rohan Kumar",
+    "mobile": "9876543210",
+    "pan": "ABCDE1234F",
+    "creditScore": 780
+  },
+  "summary": {
+    "totalAccounts": 10,
+    "active": 7,
+    "closed": 3,
+    "currentBalance": 350000,
+    "securedAmount": 200000,
+    "unsecuredAmount": 150000,
+    "last7DaysEnquiries": 2
+  },
+  "accounts": [
+    {
+      "bank": "HDFC Bank",
+      "cardType": "Credit Card",
+      "accountNumber": "XXXX1234",
+      "address": "Bangalore, India",
+      "amountOverdue": 0,
+      "currentBalance": 12000
+    },
+    {
+      "bank": "ICICI Bank",
+      "cardType": "Personal Loan",
+      "accountNumber": "XXXX5678",
+      "address": "Mumbai, India",
+      "amountOverdue": 5000,
+      "currentBalance": 75000
+    },
+    {
+      "bank": "Axis Bank",
+      "cardType": "Credit Card",
+      "accountNumber": "XXXX9012",
+      "address": "Delhi, India",
+      "amountOverdue": 0,
+      "currentBalance": 8500
+    },
+    {
+      "bank": "SBI Bank",
+      "cardType": "Home Loan",
+      "accountNumber": "XXXX3456",
+      "address": "Bangalore, India",
+      "amountOverdue": 0,
+      "currentBalance": 1850000
+    },
+    {
+      "bank": "Kotak Mahindra",
+      "cardType": "Credit Card",
+      "accountNumber": "XXXX7890",
+      "address": "Pune, India",
+      "amountOverdue": 2500,
+      "currentBalance": 15000
+    }
+  ]
+}
